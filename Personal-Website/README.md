@@ -10,7 +10,7 @@
 
 **Modern portfolio website with stunning 3D animations, multi-theme support, and cutting-edge design**
 
-[Live Demo](https://umutbayraktar.vercel.app) · [Report Bug](https://github.com/umutxyp/Personal-Website/issues) · [Request Feature](https://github.com/umutxyp/Personal-Website/issues)
+[Live Demo](https://umutbayraktar.vercel.app) · [Report Bug](https://github.com/NikhilRokade2003/Personal_Portfolio_Website/issues) · [Request Feature](https://github.com/NikhilRokade2003/Personal_Portfolio_Website/issues)
 
 </div>
 
