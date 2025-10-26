@@ -1,4 +1,4 @@
-# 🚀 Umut Bayraktar - Portfolio Website
+# 🚀 Nikhil Rokade - Personal Portfolio Website
 
 <div align="center">
 
@@ -269,17 +269,6 @@ npm start
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project at [github.com/umutxyp/Personal-Website](https://github.com/umutxyp/Personal-Website)
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
 
 ## 📝 License
 
@@ -289,15 +278,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Umut Bayraktar**
+**Nikhil Rokade**
 
-- Website: [umutbayraktar.vercel.app](https://umutbayraktar.vercel.app)
-- GitHub: [@umutxyp](https://github.com/umutxyp)
-- Instagram: [@umutxyp](https://instagram.com/umutxyp)
-- YouTube: [@umutxyp](https://youtube.com/umutxyp)
-- Twitter: [@devbayraktar](https://twitter.com/devbayraktar)
-- Discord: [Join Server](https://discord.gg/NrkMaPRc73)
-
+- Website: [NikhilsPortfolio.vercel.app](https://umutbayraktar.vercel.app)
+- GitHub: [@NikhilRokade2003](https://github.com/NikhilRokade2003)
+- Instagram: [@nikhilrokade_official]([https://instagram.com/umutxyp](https://www.instagram.com/nikhilrokade_official/))
 ---
 
 ## 🙏 Acknowledgments
@@ -314,6 +299,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by Umut Bayraktar
+Made with ❤️ by Nikhil Rokade
 
 </div>
