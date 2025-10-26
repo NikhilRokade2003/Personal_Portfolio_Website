@@ -280,7 +280,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Nikhil Rokade**
 
-- Website: [NikhilsPortfolio.vercel.app](https://umutbayraktar.vercel.app)
+- Website: [NikhilsPortfolio.vercel.app](https://personal-portfolio-website-one-bay.vercel.app/)
 - GitHub: [@NikhilRokade2003](https://github.com/NikhilRokade2003)
 - Instagram: [@nikhilrokade_official]([https://instagram.com/umutxyp](https://www.instagram.com/nikhilrokade_official/))
 ---
